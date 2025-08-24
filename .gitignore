@@ -1,0 +1,10 @@
+public/
+.env
+node_modules/
+package-lock.json
+bin/
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
